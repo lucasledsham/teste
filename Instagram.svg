@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.4.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 720 720" style="enable-background:new 0 0 720 720;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g>
+	<g>
+		
+			<radialGradient id="SVGID_1_" cx="-2398.8533" cy="522.6017" r="646.7951" gradientTransform="matrix(0.0374 0 0 0.0375 267.469 346.5056)" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#FFD776"/>
+			<stop  offset="0.2463" style="stop-color:#F3A554"/>
+			<stop  offset="0.3793" style="stop-color:#F15C3C"/>
+			<stop  offset="0.5394" style="stop-color:#D94867"/>
+			<stop  offset="0.6995" style="stop-color:#C32F87"/>
+			<stop  offset="0.9122" style="stop-color:#7D63A7"/>
+			<stop  offset="0.9852" style="stop-color:#5C6CB3"/>
+		</radialGradient>
+		<path class="st0" d="M194.76,360.9c0,2.9-2.34,5.26-5.22,5.26h-13.56c-2.88,0-5.22-2.35-5.22-5.26v-13.48
+			c0-2.9,2.34-5.26,5.22-5.26h13.56c2.88,0,5.22,2.35,5.22,5.26V360.9z"/>
+	</g>
+	<path class="st1" d="M182.72,363.19L182.72,363.19c-4.8,0-8.72-3.93-8.72-8.72v-0.52c0-4.8,3.93-8.72,8.72-8.72h0
+		c4.8,0,8.72,3.93,8.72,8.72v0.52C191.45,359.27,187.52,363.19,182.72,363.19z M186.37,361.85c0.99,0,1.93-0.39,2.64-1.1
+		c0.71-0.71,1.1-1.65,1.1-2.64v-7.79c0-0.99-0.39-1.93-1.1-2.64c-0.71-0.71-1.64-1.1-2.64-1.1h-7.3c-0.99,0-1.93,0.39-2.64,1.1
+		c-0.71,0.71-1.1,1.65-1.1,2.64v7.79c0,0.99,0.39,1.93,1.1,2.64c0.71,0.71,1.64,1.1,2.64,1.1H186.37z"/>
+	<path class="st1" d="M187.56,354.14c0,2.66-2.15,4.81-4.8,4.81c-2.65,0-4.8-2.16-4.8-4.81s2.15-4.81,4.8-4.81
+		C185.4,349.33,187.56,351.48,187.56,354.14z M182.73,350.99c-1.74,0-3.15,1.41-3.15,3.15c0,1.74,1.41,3.15,3.15,3.15
+		c1.74,0,3.15-1.41,3.15-3.15C185.87,352.4,184.47,350.99,182.73,350.99z"/>
+	<ellipse class="st1" cx="187.63" cy="349.25" rx="1.14" ry="1.14"/>
+</g>
+</svg>
